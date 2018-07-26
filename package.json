@@ -1,5 +1,5 @@
 {
-  "name": "phenome",
+  "name": "@zhennann/phenome",
   "version": "0.1.9",
   "description": "Coming soon",
   "main": "lib/compiler-io/index.js",
